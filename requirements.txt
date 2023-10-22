@@ -1,8 +1,1 @@
-streamlit
-openai
-os
-re
-requests
-torch
-bs4
-sentence_transformers
+
