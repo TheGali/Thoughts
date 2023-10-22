@@ -1,4 +1,4 @@
 
-openai_api_key = "WTF"
+openai_api_key = OPENAI_API_KEY
 
 
